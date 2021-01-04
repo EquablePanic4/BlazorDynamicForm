@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorDynamicForm", "BlazorDynamicForm.csproj", "{FBFC119A-1093-4196-AB29-2155A9D1894A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorDynamicForm", "BlazorDynamicForm.csproj", "{FBFC119A-1093-4196-AB29-2155A9D1894A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicFormSample", "..\DynamicFormSample\DynamicFormSample.csproj", "{38ECA4AE-4B67-4397-B105-5378D31AF838}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DynamicFormSample", "..\DynamicFormSample\DynamicFormSample.csproj", "{38ECA4AE-4B67-4397-B105-5378D31AF838}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicFormTests", "..\DynamicFormTests\DynamicFormTests.csproj", "{60321658-ECA3-4580-9035-5EDFE71DAE3E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicFormTests", "..\DynamicFormTests\DynamicFormTests.csproj", "{76758557-523C-4516-AFA9-7C99A95E0924}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{38ECA4AE-4B67-4397-B105-5378D31AF838}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38ECA4AE-4B67-4397-B105-5378D31AF838}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38ECA4AE-4B67-4397-B105-5378D31AF838}.Release|Any CPU.Build.0 = Release|Any CPU
-		{60321658-ECA3-4580-9035-5EDFE71DAE3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{60321658-ECA3-4580-9035-5EDFE71DAE3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{60321658-ECA3-4580-9035-5EDFE71DAE3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{60321658-ECA3-4580-9035-5EDFE71DAE3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76758557-523C-4516-AFA9-7C99A95E0924}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76758557-523C-4516-AFA9-7C99A95E0924}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76758557-523C-4516-AFA9-7C99A95E0924}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76758557-523C-4516-AFA9-7C99A95E0924}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
